@@ -53,7 +53,7 @@ Ls.fit(xtrain,ytrain)
 if r=='Bitcoin Price':
     st.header("Know the Price of Bitcoin")
     High=st.number_input("Highest Price of bitcoin")
-    Low=st.number_input("Lowest Price of")
+    Low=st.number_input("Lowest Price of bitcoin")
     Open=st.number_input("Opening Price of bitcoin")
     Close=st.number_input("Closing Price of Bitcoin")
     volume=st.number_input("Volume of the bitcoin")
