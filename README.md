@@ -57,4 +57,4 @@ We can conclude that our Web App predicts the best with  Lasso Regression and gi
 
 CONTRIBUTED BY
 
-Tandrima Singha
+SANTHOSH P
